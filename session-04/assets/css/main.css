@@ -1,0 +1,18 @@
+
+main {
+    padding: 23px;
+}
+
+#about_me {
+    border: 1px solid #1dd361;
+}
+
+#services {
+    margin: 10px;
+}
+
+
+section > article {
+    margin: 15px 8px 15px 8px;
+    border: 1px solid #955ae7;
+}
