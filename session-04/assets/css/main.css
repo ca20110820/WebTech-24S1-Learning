@@ -12,7 +12,7 @@ main {
 }
 
 
-section > article {
+#services > article {
     margin: 15px 8px 15px 8px;
     border: 1px solid #955ae7;
 }
